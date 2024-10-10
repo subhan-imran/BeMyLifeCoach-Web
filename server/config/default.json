@@ -1,0 +1,10 @@
+{
+  "server": {
+    "dialect": "mysql",
+    "host": "localhost",
+    "port": 4000,
+    "user": "root",
+    "password": "",
+    "database": "bemylifecoach"
+  }
+}
